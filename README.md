@@ -9,5 +9,5 @@
 
  *How to reach me*
  
- • <a href="file:///Users/camosss/Downloads/naver.svg" target="_blank"><img src="https://img.shields.io/badge/Naver-0BC904?style=flat-square&logo=Naver&logoColor=white"/></a>
+ <a href="file:///Users/camosss/Downloads/naver.svg" target="_blank"><img src="https://img.shields.io/badge/Naver-0BC904?style=flat-square&logo=Naver&logoColor=white"/></a> camosss@naver.com
 
