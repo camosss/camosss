@@ -3,6 +3,6 @@
 
 🌱 I’m currently learning 
 
-[!swift](https://img.shields.io/badge/-swift-orange)
+(file:///Users/camosss/Downloads/swift.svg)
 
 📫 How to reach me
