@@ -1,7 +1,5 @@
 
- camosss
-
-Junior iOS developer
+ camosss    Junior iOS developer
 
  I’m currently learning 
 
