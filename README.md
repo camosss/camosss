@@ -1,6 +1,5 @@
-
- *camosss*    
- *Junior iOS developer*
+   
+:ocean: *Junior iOS developer*
 
  *I’m currently learning*
 
