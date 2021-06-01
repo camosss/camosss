@@ -1,5 +1,5 @@
    
- *Junior iOS developer*
+:first_quarter_moon: *Junior iOS developer*
  
  ---
 
