@@ -1,5 +1,5 @@
    
-:first_quarter_moon: *Junior iOS developer*
+:first_quarter_moon: 🧑‍💻
  ---
 *I’m currently learning*
 
