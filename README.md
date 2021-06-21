@@ -7,7 +7,7 @@
 
 <h3 align="center">How to reach me :question:</h3>
  
- <h3 align="center"><a href="file:///Users/camosss/Downloads/naver.svg" target="_blank"><img src="https://img.shields.io/badge/Naver-0BC904?style=flat-square&logo=Naver&logoColor=white&link=camosss@naver.com"/></a></h3>
+ <h3 align="center"><a href="mailto:camosss@naver.com"><img src="https://img.shields.io/badge/Naver-0BC904?style=flat-square&logo=Naver&logoColor=white&link=camosss@naver.com"/></a></h3>
  
 
  <h3 align="center">:first_quarter_moon:Tech Blog</h3>
