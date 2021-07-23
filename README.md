@@ -9,7 +9,3 @@
  <h3 align="center">🌓 Tech Blog</h3>
  
  <h3 align="center"><a href="https://www.notion.so/camosss-237308dc0bf4403c854546d1a20e886d"><img src="https://img.shields.io/badge/Notion-A6A6A6?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/camosss-237308dc0bf4403c854546d1a20e886d)"/></a></h3>
-
- <h3 align="center">🍀 My git stats</h3>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=camosss&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camosss&layout=compact)](https://github.com/camosss/github-readme-stats)
