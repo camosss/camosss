@@ -12,5 +12,5 @@
 
 ---
  <h3 align="center">🍀 My git stats</h3>
-![camosss's GitHub stats](https://github-readme-stats.vercel.app/api?username=camosss&show_icons=true&theme=tokyonight)
-
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=camosss&show_icons=true&theme=radical)
