@@ -1,11 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HoSeongKang&fontSize=70&animation=twinkling)
-
-
-<h3 align="center">🧑‍💻 I’m currently learning Tech Stack</h3>
-
-<h3 align="center"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Swift-F29661?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Firebase-FFE400?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp</h3>
- 
-
- <h3 align="center">🌓 Tech Blog</h3>
- 
- <h3 align="center"><a href="https://www.notion.so/camosss-237308dc0bf4403c854546d1a20e886d"><img src="https://img.shields.io/badge/Notion-A6A6A6?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/camosss-237308dc0bf4403c854546d1a20e886d)"/></a></h3>
+<p align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=6EE3F78&height=60&text=Hoseong%20Kang&animation=fadeIn&fontSize=50&fontColor=ffffff&textBg=true" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=40&text=iOS%20Developer&fontSize=30&animation=scaleIn&fontColor=6EE3F7" />
+  <br>
+  <a href="https://www.notion.so/Tech-Blog-237308dc0bf4403c854546d1a20e886d" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  </a>
+  <a href=https://www.notion.so/Kang-Hoseong-6293f279e5e74f52884fc6a3ea77f70d target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FFBB00?style=flat-square&logo=Notion&logoColor=white"/>
+  </a>
+  <a href="mailto:camosss777@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
+<br>
