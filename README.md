@@ -1,6 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Hosung%20Kang&fontSize=70&animation=twinkling)
+
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=F29661&height=60&text=Hosung%20Kang&animation=fadeIn&fontSize=50&fontColor=ffffff&textBg=true" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=40&text=iOS%20Developer&fontSize=30&animation=scaleIn&fontColor=F29661" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=40&text=iOS%20Developer&fontSize=30&animation=scaleIn&fontColor=auto" />
   <br>
   <a href="https://www.notion.so/Tech-Blog-237308dc0bf4403c854546d1a20e886d" target="_blank">
     <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=white"/>
