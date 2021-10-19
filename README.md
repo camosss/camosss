@@ -24,7 +24,7 @@
 - [artwork SNS app](https://github.com/camosss/ArtCommunity)
 - [NetflixReview app](https://github.com/Netflix-Review/NetflixReview_iOS)
 
-<h2>Studying</h2>
+<h2>Activities</h2>
 
 - [42 la piscine](https://github.com/camosss/42)
 - [SSAC](https://github.com/camosss/SSAC)
