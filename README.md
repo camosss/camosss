@@ -24,6 +24,11 @@
 - [artwork SNS app](https://github.com/camosss/ArtCommunity)
 - [NetflixReview app](https://github.com/Netflix-Review/NetflixReview_iOS)
 
+<h2>Studying</h2>
+
+- [42 la piscine](https://github.com/camosss/42)
+- [SSAC](https://github.com/camosss/SSAC)
+
 <h2>GitHub stats</h2>
 
 [![camosss's GitHub stats](https://github-readme-stats.vercel.app/api?username=camosss)](https://github.com/camosss/github-readme-stats)
