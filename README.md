@@ -12,6 +12,20 @@
 </p>
 <br>
 
+
+<h2>Project</h2>
+
+- [artwork SNS app](https://github.com/camosss/ArtCommunity)
+- [NetflixReview app](https://github.com/Netflix-Review/NetflixReview_iOS)
+- [해외 뉴우스](https://github.com/camosss/Overseas-News)
+
+
+<h2>Activities</h2>
+
+- [42 la piscine](https://github.com/camosss/42)
+- [SSAC](https://github.com/camosss/SSAC)
+
+
 <h2>Studying</h2>
 
 - [iOS](https://www.notion.so/f615c81ae0b34a68abb879add3b43c69)
@@ -19,15 +33,6 @@
 - [Algorithm](https://www.notion.so/d6926aa438b94de3a7174872f41bf1b2)
 - [Algorithm Study](https://github.com/KKP-iOS-Study)
 
-<h2>Project</h2>
-
-- [artwork SNS app](https://github.com/camosss/ArtCommunity)
-- [NetflixReview app](https://github.com/Netflix-Review/NetflixReview_iOS)
-
-<h2>Activities</h2>
-
-- [42 la piscine](https://github.com/camosss/42)
-- [SSAC](https://github.com/camosss/SSAC)
 
 <h2>GitHub stats</h2>
 
