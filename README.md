@@ -15,8 +15,8 @@
 
 <h2>Project</h2>
 
-- [artwork SNS app](https://github.com/camosss/ArtCommunity)
-- [NetflixReview app](https://github.com/Netflix-Review/NetflixReview_iOS)
+- [artwork SNS](https://github.com/camosss/ArtCommunity)
+- [NetflixReview](https://github.com/Netflix-Review/NetflixReview_iOS)
 - [해외 뉴우스](https://github.com/camosss/Overseas-News)
 
 
@@ -32,6 +32,7 @@
 - [iOS Study](https://github.com/iStudyiOS)
 - [Algorithm](https://www.notion.so/d6926aa438b94de3a7174872f41bf1b2)
 - [Algorithm Study](https://github.com/KKP-iOS-Study)
+- [RxSwift](https://github.com/camosss/RxSwift)
 
 
 <h2>GitHub stats</h2>
