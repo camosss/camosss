@@ -28,11 +28,11 @@
 
 <h2>Studying</h2>
 
-- [RxSwift](https://github.com/camosss/RxSwift)
-- [iOS](https://www.notion.so/f615c81ae0b34a68abb879add3b43c69)
+- [RxSwift 학습 기록](https://github.com/camosss/RxSwift)
+- [iOS 학습 기록](https://www.notion.so/f615c81ae0b34a68abb879add3b43c69)
 - [iOS Study](https://github.com/iStudyiOS)
-- [Algorithm](https://www.notion.so/d6926aa438b94de3a7174872f41bf1b2)
-- [Algorithm Study](https://github.com/KKP-iOS-Study)
+- [Algorithm 문제별 정리](https://www.notion.so/d6926aa438b94de3a7174872f41bf1b2)
+- [Algorithm Study](https://github.com/KKP-iOS-Study/Algorithm_Study/tree/main/Hosung)
 
 
 <h2>GitHub stats</h2>
