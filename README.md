@@ -18,7 +18,6 @@
 - [새싹 커뮤니티](https://github.com/camosss/SSAC/tree/main/ssacFarm)
 - [해외 뉴우스](https://github.com/camosss/Overseas-News)
 - [NetflixReview](https://github.com/Netflix-Review/NetflixReview_iOS)
-- [artwork SNS](https://github.com/camosss/ArtCommunity)
 
 
 <h2>Activities</h2>
