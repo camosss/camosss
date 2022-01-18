@@ -18,20 +18,15 @@
 - [해외 뉴우스](https://github.com/camosss/Overseas-News)
 - [NetflixReview](https://github.com/Netflix-Review/NetflixReview_iOS)
 
+<h2>Library</h2>
+
+- [IAMPopup](https://github.com/camosss/IAMPopup)
 
 <h2>Activities</h2>
 
 - [SSAC](https://github.com/camosss/SSAC)
 - [42 la piscine](https://github.com/camosss/42)
 
-
-<h2>Studying</h2>
-
-- [RxSwift 학습 기록](https://github.com/camosss/RxSwift)
-- [iOS 학습 기록](https://www.notion.so/f615c81ae0b34a68abb879add3b43c69)
-- [iOS Study](https://github.com/iStudyiOS)
-- [Algorithm 문제별 정리](https://www.notion.so/d6926aa438b94de3a7174872f41bf1b2)
-- [Algorithm Study](https://github.com/KKP-iOS-Study/Algorithm_Study/tree/main/Hosung)
 
 
 <h2>GitHub stats</h2>
