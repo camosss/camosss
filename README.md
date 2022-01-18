@@ -24,7 +24,7 @@
 
 <h2>Activities</h2>
 
-- [SSAC](https://github.com/camosss/SSAC)
+- [SeSAC](https://github.com/camosss/SSAC)
 - [42 la piscine](https://github.com/camosss/42)
 
 
