@@ -16,6 +16,7 @@
 
 <h2>Project</h2>
 
+- [서비스 레벨 프로젝트](https://github.com/camosss/SeSAC_SPL)
 - [새싹 커뮤니티](https://github.com/camosss/SSAC/tree/main/ssacFarm)
 - [해외 뉴우스](https://github.com/camosss/Overseas-News)
 - [NetflixReview](https://github.com/Netflix-Review/NetflixReview_iOS)
