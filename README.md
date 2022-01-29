@@ -7,7 +7,7 @@
   <a href="https://www.notion.so/Tech-Blog-237308dc0bf4403c854546d1a20e886d" target="_blank">
     <img src="https://img.shields.io/badge/Study-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
-  <a href="https://llan.tistory.com/" target="_blank">
+  <a href="https://llan.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Blog-FFBB00?style=flat-square&logo=Storyblok&logoColor=white"/>
   </a>
   <a href="mailto:camosss777@gmail.com" target="_blank">
