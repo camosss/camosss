@@ -5,7 +5,10 @@
   <img src="https://img.shields.io/badge/Swift-F29661?style=flat-square&logo=Swift&logoColor=white"/>
   </a>
   <a href="https://www.notion.so/Tech-Blog-237308dc0bf4403c854546d1a20e886d" target="_blank">
-    <img src="https://img.shields.io/badge/Study-000000?style=flat-square&logo=Notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Study-000000?style=flat-square&logo=#09B3AF&logoColor=white"/>
+  </a>
+  <a href="https://llan.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Blog&logoColor=FFBB00"/>
   </a>
   <a href="mailto:camosss777@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
