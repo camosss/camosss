@@ -21,7 +21,7 @@
 <h2>Project</h2>
 
 - [[Naver API] MovieProject](https://github.com/camosss/MovieProject)
-- [IAMGithub](https://github.com/camosss/IAMGithub/tree/main)
+- [[Github API] IAMGithub](https://github.com/camosss/IAMGithub/tree/main)
 - [[SeSAC] 서비스 레벨 프로젝트](https://github.com/camosss/SeSAC_SPL)
 - [[SeSAC] 새싹 커뮤니티](https://github.com/camosss/SSAC/tree/main/ssacFarm)
 - [[출시앱] 해외 뉴우스](https://github.com/camosss/Overseas-News)
