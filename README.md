@@ -15,24 +15,6 @@
 
 
 
-<h2>Project</h2>
-
-- [[Naver API] IAMMovie](https://github.com/camosss/MovieProject)
-- [[SeSAC] 서비스 레벨 프로젝트](https://github.com/camosss/SeSAC_SPL)
-- [[SeSAC] 새싹 커뮤니티](https://github.com/camosss/SSAC/tree/main/ssacFarm)
-- [[출시앱] 해외 뉴우스](https://github.com/camosss/Overseas-News)
-
-<h2>Library</h2>
-
-- [IAMPopup](https://github.com/camosss/IAMPopup)
-
-<h2>Activities</h2>
-
-- [SeSAC](https://github.com/camosss/SSAC)
-- [42 la piscine](https://github.com/camosss/42)
-
-
-
 <h2>GitHub stats</h2>
 
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=camosss&theme=default&hide_border=true&fire=e25822&currStreakLabel=e25822&dates=aaa&background=fff">](#bottom)
