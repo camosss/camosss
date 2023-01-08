@@ -4,7 +4,7 @@
   <br>
   <img src="https://img.shields.io/badge/Swift-F29661?style=flat-square&logo=Swift&logoColor=white"/>
   </a>
-  <a href="https://llan.tistory.com" target="_blank">
+  <a href="https://devcamosss.medium.com" target="_blank">
     <img src="https://img.shields.io/badge/Blog-FFBB00?style=flat-square&logo=Storyblok&logoColor=white"/>
   </a>
   <a href="mailto:camosss777@gmail.com" target="_blank">
